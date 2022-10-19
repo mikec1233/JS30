@@ -15,3 +15,17 @@ body,html {
     align-items: center;
     justify-content: center;
 }
+
+.key{
+    border: .4rem solid black;
+  border-radius: 2rem;
+  margin: 1.5rem;
+  font-size: 2rem;
+  padding: 1rem .5rem;
+  transition: all .07s ease;
+  width: 10rem;
+  text-align: center;
+  color: white;
+  background: rgba(0,0,0,0.4);
+  text-shadow: 0 0 .5rem black;
+}
