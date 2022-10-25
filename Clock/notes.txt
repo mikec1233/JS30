@@ -1,0 +1,3 @@
+query selector
+simple conversions for time
+visualsing connection between js, css elements(transform)
